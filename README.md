@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+# # 欢迎来到 github 页面
 
-You can use the [editor on GitHub](https://github.com/pm58/ma-robot.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+您可以使用 [GitHub](https://github.com/pm58/ma-robot.github.io/edit/master/README.md 上的编辑器) 在标记文件中维护和预览网站的内容。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+每当您提交到此存储库时, github 页面都将运行 [jekyll] (http://jekyllb. comme/), 从您的标记文件中的内容重建网站中的页面。
 
-### Markdown
+# # # 标记
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+标记是一种轻量级且易于使用的语法, 用于为您的写作设置样式。它包括
 
-```markdown
-Syntax highlighted code block
+"标记"
+语法突出显示的代码块
 
-# Header 1
-## Header 2
-### Header 3
+# 标题1
+# # 标题2
+# # # 标题3
 
-- Bulleted
-- List
+-已发布
+-列表
 
-1. Numbered
-2. List
+1. 编号
+2. 列表
 
-**Bold** and _Italic_ and `Code` text
+* * 粗体 * * 和 _ 斜体 _ 和 "代码" 文本
 
-[Link](url) and ![Image](src)
+[链接](网址) 和![图片仅供参考](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+有关更多详细信息, 请参阅 [github 调味标记] (http://guides.github.com/features/mastering-markdown/)。
 
-### Jekyll Themes
+# # # jekyll 主题
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pm58/ma-robot.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+您的 pages 网站将使用您在 [存储库 settings](https://github.com/pm58/ma-robot.github.io/settings) 中选择的 jekyll 主题中的布局和样式。此主题的名称保存在 jekyll ' _ config. yml ' 配置文件中。
 
-### Support or Contact
+# # 支持或联系
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+与主页有问题？查看我们的 [文档] (http://help.github.com/categories/github-pages-basics/) 或 [联系支持] (http:/githubi. comn 联系人), 我们将帮助您进行分类。
